@@ -1,5 +1,7 @@
 # Git test
 
+## THIS IS A BAD IDEA
+
 ## this is a test header
 this is some text
 
